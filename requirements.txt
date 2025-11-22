@@ -1,1 +1,8 @@
-pytest
+# Testing framework
+pytest>=7.4.0
+
+# Scientific computing (for Task 2: Attention)
+numpy>=1.24.0
+
+# Optional: For better testing output
+pytest-cov>=4.1.0
